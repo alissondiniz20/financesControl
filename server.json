@@ -14,7 +14,15 @@
       "type": "outcome",
       "category": "Alimentação",
       "price": 50,
-      "createdAt": "2023-02-25T16:20 :38.277Z"
+      "createdAt": "2023-02-25T16:20:38.277Z"
+    },
+    {
+      "id": 3,
+      "description": "Freela Alisson Dev",
+      "type": "outcome",
+      "category": "PJ",
+      "price": 1980,
+      "createdAt": "2023-02-26T16:24:38.277Z"
     }
   ]
 }
