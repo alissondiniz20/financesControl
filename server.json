@@ -39,6 +39,30 @@
       "category": "Alimentação",
       "price": 1500,
       "createdAt": "2023-02-26T16:24:38.277Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-02-28T12:43:48.882Z",
+      "id": 6
+    },
+    {
+      "description": "Tapioca de frango com Ovo",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-02-28T12:53:40.156Z",
+      "id": 7
+    },
+    {
+      "description": "Iogurte Proteico",
+      "category": "Alimentação",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2023-02-28T13:15:58.320Z",
+      "id": 8
     }
   ]
 }
